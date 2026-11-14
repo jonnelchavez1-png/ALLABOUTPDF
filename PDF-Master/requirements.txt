@@ -1,0 +1,9 @@
+PySide6
+PyMuPDF
+pypdf
+Pillow
+img2pdf
+
+# dev / packaging
+pyinstaller
+pytest
