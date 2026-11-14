@@ -1,0 +1,11 @@
+PySide6
+PyMuPDF
+pypdf>=5.9,<6     # tested range; pypdf 7 changed its API
+cryptography      # AES-256 password protection
+Pillow
+img2pdf
+reportlab         # watermark / page-number overlays
+
+# dev / packaging
+pyinstaller
+pytest
